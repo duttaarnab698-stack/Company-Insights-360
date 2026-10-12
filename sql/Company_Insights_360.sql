@@ -1,0 +1,2 @@
+CREATE DATABASE Company_Insights_360;
+USE Company_Insights_360;
